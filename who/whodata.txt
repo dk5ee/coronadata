@@ -1,0 +1,5 @@
+https://covid.ourworldindata.org/data/who/total_cases.csv
+https://covid.ourworldindata.org/data/who/total_deaths.csv
+https://covid.ourworldindata.org/data/who/new_cases.csv
+https://covid.ourworldindata.org/data/who/new_deaths.csv
+https://covid.ourworldindata.org/data/who/full_data.csv
